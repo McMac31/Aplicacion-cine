@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class a2 {
+   public a2() {
+   }
+
+   public static int pedirNumero() {
+      while(true) {
+         Scanner var1 = new Scanner(System.in);
+         int var0 = var1.nextInt();
+         if (var0 >= 0 && var0 <= 5) {
+            return var0;
+         }
+
+         System.out.println("N\u00famero inv\u00e1lido. Int\u00e9ntalo de nuevo.");
+      }
+   }
+
+   public static void main(String[] var0) throws Exception {
+      // $FF: Couldn't be decompiled
+   }
+}

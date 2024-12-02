@@ -1,4 +1,4 @@
-# Aplicacion-cine
+package Reto1;
 import java.util.Scanner;
 
 public class a2 {
@@ -37,6 +37,11 @@ public class a2 {
     static String[] titulosCienciaFiccion = { "Interestelar", "Regreso al futuro", "Matrix", "Terminator" };
     static int[] duracionCienciaFiccion = { 110, 75, 90, 130 };
 
+    
+    /** 
+     * @param opcionMenu
+     * @return String[]
+     */
     // Iniciamos el metodo titulos con respecto a la respuesta del usuario
     // dependiendo del genero que haya elegido
     static String[] titulosGenero(int opcionMenu) {

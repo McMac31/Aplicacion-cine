@@ -1,0 +1,39 @@
+forrest gump-120-drama
+matrix-130-drama
+saw-120-terror
+men in black-60-cienciaficcion
+el diario de greg-140-comedia
+Casablanca-102-drama
+Ciudadano Kane-119-drama
+larga-460-terror
+corta-12-terror
+El secreto de sus ojos-129-drama
+Forrest Gump-142-drama
+La la land-128-comedia
+The Hangover-100-comedia
+El laberinto del fauno-118-drama
+La habitación-118-drama
+It Follows-100-terror
+Hereditary-127-terror
+Inception-148-cienciaficcion
+Interstellar-169-cienciaficcion
+Ex Machina-108-cienciaficcion
+Matrix-136-cienciaficcion
+The Truman Show-103-comedia
+Los cazafantasmas-107-comedia
+El conjuro-112-terror
+Tiburón-124-terror
+A Ghost Story-92-drama
+Memento-113-drama
+Jumanji: Welcome to the Jungle-119-comedia
+The Martian-144-cienciaficcion
+Arrival-116-cienciaficcion
+The Babadook-93-terror
+El exorcista-122-terror
+Una mente brillante-137-drama
+La muerte de Stalin-107-comedia
+Gravity-91-cienciaficcion
+Shutter Island-138-drama
+The Witch-93-terror
+La gran belleza-141-drama
+A Quiet Place-90-terror
